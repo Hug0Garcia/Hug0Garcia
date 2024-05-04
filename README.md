@@ -1,6 +1,6 @@
 ## 👋 Hi I'm Hugo.
 
-#### 𝕏: @HugoGarcia__ 
+#### I like Chess, playing Guitar, and above all Spearfishing 
 ---------
 
 - 🌱 I’m currently learning Azure DEVOPS.
