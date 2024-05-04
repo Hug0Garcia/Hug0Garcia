@@ -1,6 +1,6 @@
-### 👋 Hi I'm Hugo.
+## 👋 Hi I'm Hugo.
 
-𝕏: @HugoGarcia__ 
+#### 𝕏: @HugoGarcia__ 
 ---------
 
 - 🌱 I’m currently learning Azure DEVOPS.
