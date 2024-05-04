@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋 Hi I'm Hugo.
+
+𝕏: @HugoGarcia__ 
+---------
+
+- 🌱 I’m currently learning Azure DEVOPS.
+- 🔭 I’m currently working on a shop to buy plants online :evergreen_tree: :palm_tree: :deciduous_tree:
 
 <!--
 **Hug0Garcia/Hug0Garcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
