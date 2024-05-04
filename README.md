@@ -8,6 +8,32 @@
 
 ---------
 
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [40.21729754523081, -8.411051023448222],
+              [40.21687324339219, -8.411128447582751],
+              [40.21682281542958, -8.410315460746297],
+              [40.21721929325984, -8.41012986057562]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
+
 <!--
 **Hug0Garcia/Hug0Garcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
