@@ -4,7 +4,7 @@
 ---------
 
 - 🌱 I’m currently learning Azure DEVOPS.
-- 🔭 I’m currently working on a shop to buy plants online :evergreen_tree: :palm_tree: :deciduous_tree:
+
 
 ---------
 
